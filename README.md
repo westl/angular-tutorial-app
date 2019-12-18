@@ -1,6 +1,3 @@
-# DEMO:
-https://angular-tutorial-app-335f2.firebaseapp.com/
-
 
 # AngularTutorialApp
 
